@@ -8,7 +8,11 @@ I read Javascript at work and I decided to learn how to write Javacscript code. 
 * string interpolation
 * basic math
 
-## Project 1: Magic Eightball
+## Project 1: Race Day
+* random numbers
+* if/else logic
+
+## Project 2 Magic Eightball
 * string interpolation
 * if/else
 * switch cases
