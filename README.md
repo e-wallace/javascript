@@ -19,5 +19,6 @@ I read Javascript at work and I decided to learn how to write Javacscript code. 
 
 ## Project 3: Rock Paper Scissors
 * ES6 arrow functions
+* user input
 
 ## Project 4: Sleep Debt
