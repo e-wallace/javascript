@@ -17,7 +17,7 @@ I read Javascript at work and I decided to learn how to write Javacscript code. 
 * if/else
 * switch cases
 
-##Project 3: Rock Paper Scissors
+## Project 3: Rock Paper Scissors
 * ES6 arrow functions
 
-##Project 4: Sleep Debt
+## Project 4: Sleep Debt
